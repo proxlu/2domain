@@ -1,5 +1,5 @@
 # 2domain
-Procura por nomes de domínios, com 2 caracteres, disponível para registro.
+Procura por nomes de domínios, com 2 caracteres, disponíveis para registro.
 ##
 ### Dependências
 Em um terminal execute isso antes, para o 2domain funcionar:
