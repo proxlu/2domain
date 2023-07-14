@@ -1,3 +1,5 @@
+# 2domain - by: proxlu
+
 import sys
 import itertools
 import whois
